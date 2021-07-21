@@ -1,0 +1,56 @@
+2021-07-14 12:31:58 PM INFO: * Restarting with stat
+2021-07-14 12:31:59 PM WARNING: * Debugger is active!
+2021-07-14 12:31:59 PM INFO: * Debugger PIN: 106-883-984
+2021-07-14 12:31:59 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-14 12:32:25 PM INFO: * Restarting with stat
+2021-07-14 12:32:25 PM WARNING: * Debugger is active!
+2021-07-14 12:32:25 PM INFO: * Debugger PIN: 106-883-984
+2021-07-14 12:32:26 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-14 12:37:46 PM INFO: * Restarting with stat
+2021-07-14 12:37:46 PM WARNING: * Debugger is active!
+2021-07-14 12:37:46 PM INFO: * Debugger PIN: 106-883-984
+2021-07-14 12:37:47 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-14 12:38:07 PM INFO: * Detected change in 'C:\\Users\\hp\\Desktop\\Python\\WebappUI\\login\\verifyemail.py', reloading
+2021-07-14 12:38:07 PM INFO: * Restarting with stat
+2021-07-14 12:42:46 PM INFO: * Restarting with stat
+2021-07-14 12:42:47 PM WARNING: * Debugger is active!
+2021-07-14 12:42:47 PM INFO: * Debugger PIN: 106-883-984
+2021-07-14 12:42:47 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-14 12:42:50 PM INFO:127.0.0.1 - - [14/Jul/2021 12:42:50] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:42:50 PM INFO:127.0.0.1 - - [14/Jul/2021 12:42:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-07-14 12:42:58 PM INFO:127.0.0.1 - - [14/Jul/2021 12:42:58] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:42:59 PM INFO:127.0.0.1 - - [14/Jul/2021 12:42:59] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:00 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:00] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:00 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:00] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:00 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:00] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:00 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:00] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:01 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:01 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:01 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:01 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:43:01 PM INFO:127.0.0.1 - - [14/Jul/2021 12:43:01] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:46:13 PM INFO:127.0.0.1 - - [14/Jul/2021 12:46:13] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 12:46:14 PM INFO:127.0.0.1 - - [14/Jul/2021 12:46:14] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 14:17:17 PM INFO:127.0.0.1 - - [14/Jul/2021 14:17:17] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-14 14:28:22 PM INFO:127.0.0.1 - - [14/Jul/2021 14:28:22] "[33mGET / HTTP/1.1[0m" 404 -
+2021-07-15 14:13:12 PM INFO: * Restarting with stat
+2021-07-15 14:13:12 PM WARNING: * Debugger is active!
+2021-07-15 14:13:12 PM INFO: * Debugger PIN: 106-883-984
+2021-07-15 14:13:12 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-15 14:14:46 PM INFO: * Detected change in 'C:\\Users\\hp\\Desktop\\Python\\WebappUI\\login\\verifyemail.py', reloading
+2021-07-15 14:14:46 PM INFO: * Restarting with stat
+2021-07-15 14:18:04 PM INFO: * Restarting with stat
+2021-07-15 14:18:04 PM WARNING: * Debugger is active!
+2021-07-15 14:18:04 PM INFO: * Debugger PIN: 106-883-984
+2021-07-15 14:18:04 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-15 14:20:40 PM INFO: * Detected change in 'C:\\Users\\hp\\Desktop\\Python\\WebappUI\\login\\verifyemail.py', reloading
+2021-07-15 14:20:41 PM INFO: * Restarting with stat
+2021-07-15 14:20:41 PM WARNING: * Debugger is active!
+2021-07-15 14:20:41 PM INFO: * Debugger PIN: 106-883-984
+2021-07-15 14:20:41 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-15 14:20:52 PM INFO: * Restarting with stat
+2021-07-15 14:20:52 PM WARNING: * Debugger is active!
+2021-07-15 14:20:52 PM INFO: * Debugger PIN: 106-883-984
+2021-07-15 14:20:52 PM INFO: * Running on http://localhost:5012/ (Press CTRL+C to quit)
+2021-07-15 14:26:58 PM INFO: * Detected change in 'C:\\Users\\hp\\Desktop\\Python\\WebappUI\\login\\verifyemail.py', reloading
+2021-07-15 14:26:58 PM INFO: * Restarting with stat
