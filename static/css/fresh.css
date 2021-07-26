@@ -1,0 +1,1037 @@
+.Outer-div {
+    width: 1484px;
+    height: 1024px;
+    flex-grow: 0;
+    padding: 0 0 62px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: #ffffff;
+  }
+.Header {
+    display:flex;
+    flex-direction:row;
+    width: 1440px;
+    height: 70px;
+    padding: 7px 24px;
+    box-shadow: 0 2px 0 0 #d1d1d1;
+    background-color: #ffffff;
+    
+  }
+  .Right-handside {
+    
+    width: 128px;
+    height: 56px;
+    margin: 0 0 0;
+    margin-top: 10px;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+  }
+  .Left-handside {
+    width: 81px;
+    height: 56px;
+    
+    margin: 0 0 0 1183px;
+    margin-top: 10px;
+    padding: 0px 24px;
+    border-radius: 6px;
+    box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.15);
+    border: solid 1px #6da4fe;
+    background-color: #9dc3fe;
+  }
+  .Next {
+    width: 33px;
+    height: 22px;
+    margin-top: 18px;
+    margin-left: 24px;
+    flex-grow: 0;
+    font-family: "OpenSans",sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+  }
+  .Blue-line {
+    width: 360px;
+    height: 2px;
+    margin: 0 137px 0 0;
+    background-color: #0b68fd;
+  }
+  .Step-14 {
+    width: 446px;
+    height: 16px;
+    margin: 39px 497px 13px 497px;
+    font-family: "OpenSans", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.4px;
+    text-align: center;
+    color: #85898f;
+  }
+  .Company-preferences {
+    width: 368px;
+    height: 42px;
+    margin: 13px 536px 8px 536px;
+    font-family: "NotoSans", sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #212428;
+  }
+  .Please-choose-your-desired-start-up-to-begin-with {
+    width: 446px;
+    height: 22px;
+    margin: 8px 496px 24px 498px;
+    font-family: "OpenSans", sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: center;
+    color: #4e5156;
+  }
+  .Central-box {
+    width: 732px;
+    height: 830px;
+    margin: 24px 354px 0;
+    padding: 24px 24px 40px;
+    border-radius: 6px;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 4px 0 rgba(63, 63, 68, 0.15);
+    background-color: #ffffff;
+  }
+  .Choose-your-desired-start-up- {
+    width: 247px;
+    height: 28px;
+    margin: 0 107px 24px 0;
+    font-family: "NotoSans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #212428;
+  }
+  
+  .Choose-your-desired-start-up- .text-style-1 {
+    color: #f22013;
+    display: inline;
+  }
+  .Central-a{
+      display:flex;
+  }
+  .Type {
+    width: 137px;
+    height: 22px;
+    margin: 24px 217px 8px 0;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  .Stage {
+    width: 137px;
+    height: 22px;
+    margin: 24px 193px 8px 28px;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  .Central-b{
+      display:flex;
+  }
+  .Type-Rectangle {
+    width: 330px;
+    height: 68px;
+    margin: 8px 24px 40px 0;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .select {
+    width: 160px;
+    height: 22px;
+    margin:15px 114px 1px 10px;
+    font-family: "OpenSans",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #b6b8bb;
+  }
+  .Stage-Rectangle {
+    width: 330px;
+    height: 68px;
+    margin: 8px 0 40px 28px;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .Central-c{
+    display:flex;
+}
+  .Company-name {
+    width: 137px;
+    height: 22px;
+    margin: 40px 217px 8px 0;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  .Company-you-do-not-wish-to-apply {
+    width: 236px;
+    height: 22px;
+    margin: 25px 24px -8px 50px;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  .Central-d{
+    display:flex;
+}
+  .Rectangle-1425 {
+    width: 330px;
+    height: 68px;
+    margin: 8px 24px 4px 0;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .Rectangle-1426 {
+    width: 330px;
+    height: 68px;
+    margin: 8px 0 4px 28px;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .Search {
+    width: 160px;
+    height: 22px;
+    margin:15px 114px 1px 10px;
+    font-family: "OpenSans",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #b6b8bb;
+  }
+  .Ex-Your-current-company-Google {
+    width: 236px;
+    height: 16px;
+    margin: 4px 94px 20px 384px;
+    font-family: "OpenSans",sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #b6b8bb;
+  }
+  .Choose-your-job-type- {
+    width: 183px;
+    height: 28px;
+    margin: 20px 171px 16px 0;
+    font-family: "NotoSans",sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: 0.25px;
+    text-align: left;
+    color: #212428;
+  }
+  
+  .Choose-your-job-type- .text-style-1 {
+    color: #f22013;
+    display: inline;
+  }
+  .Central-f{
+    display:flex;
+}
+  .Rectangle-1427 {
+    width: 346px;
+    height: 330px;
+    margin: 16px 24px 0 0;
+    padding: 1px 1px 20px;
+    border-radius: 6px;
+    border: solid 1px #0b68fd;
+    background-color: white;
+  }
+  .Rectangle-1428 {
+    width: 346px;
+    height: 330px;
+    margin: 16px 0 0 10px;
+    padding: 1px 1px 20px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .Rectangle-1429 {
+    width: 346px;
+    height: 191px;
+    margin: 0 0 18px;
+    box-shadow: 0 1px 0 0 #d1d1d1;
+    background-color: #f1f9ff;
+  }
+  .Rectangle-1430 {
+    width: 346px;
+    height: 191px;
+    margin: 0 0 18px;
+    box-shadow: 0 1px 0 0 #d1d1d1;
+    background-color: #f1f9ff;
+  }
+  .Active-for-roles {
+    width: 137px;
+    height: 22px;
+    margin: 18px 95px 12px 96px;
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #212428;
+  }
+  .If-you-are-a-candidate-looking-for-job-in-every-4-7-days-a-month {
+    width: 216px;
+    height: 66px;
+    margin: 12px 56px 0;
+    font-family: "OpenSans",sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: center;
+    color: #85898f;
+  }
+  .Passive-for-roles {
+    width: 137px;
+    height: 22px;
+    margin: 18px 95px 12px 96px;
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #212428;
+  }
+  .If-you-are-a-candidate-looking-for-job-in-every-once-or-twice-a-month {
+    width: 216px;
+    height: 66px;
+    margin: 12px 56px 0;
+    font-family: "OpenSans",sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: center;
+    color: #85898f;
+  }
+  /* Experience.html page exclusive css*/
+
+  .Central-box-experience{
+    width: 632px;
+    height: 276px;
+    margin: 24px 354px 0;
+    padding:40px 50px;
+    border-radius: 6px;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 4px 0 rgba(63, 63, 68, 0.15);
+    background-color: white;
+  }
+
+  .Blue-line-experience {
+    width: 720px;
+    height: 2px;
+    margin: 0 137px 0 0;
+    background-color: #0b68fd;
+  }
+
+  .How-many-years-of-experience-you-have-in-current-role {
+    width: 380px;
+    height: 22px;
+    margin: 0 71px 8px 0;
+    margin-left: 110px;
+    font-family: "Roboto",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  .Rectangle-299 {
+    width: 400px;
+    height: 48px;
+    margin: 8px 0 40px;
+    margin-left: 110px;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .What-are-your-expertise- {
+    width: 200px;
+    height: 22px;
+    margin: 40px 234px 8px 0;
+    margin-left: 110px;
+    font-family: "Roboto",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #212428;
+  }
+  
+  .What-are-your-expertise- .text-style-1 {
+    color: #f22013;
+    display: inline;
+  }
+  .Rectangle-1530 {
+    width: 400px;
+    height: 48px;
+    margin: 8px 0 0;
+    margin-left: 110px;
+    padding: 12px 16px;
+    border-radius: 6px;
+    border: solid 1px #b6b8bb;
+    background-color: white;
+  }
+  .select {
+    width: 160px;
+    height: 22px;
+    margin: 13px 184px 1px 0;
+    font-family: "OpenSans",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #b6b8bb;
+  }
+  .Search {
+    width: 160px;
+    height: 22px;
+    margin: 13px 184px 1px 0;
+    font-family: "OpenSans",sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: 0.15px;
+    text-align: left;
+    color: #b6b8bb;
+  }
+
+  /*choose.html page exclusive css*/
+  .Choose-preferences {
+    width: 450px;
+    height: 42px;
+    margin: 13px 536px 8px 506px;
+    font-family: "NotoSans", sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #212428;}
+    
+    .What-is-your-expected-salary- {
+        width: 329px;
+        height: 22px;
+        margin: 0 31px 8px 0;
+        margin-left: 110px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      
+      .What-is-your-expected-salary- .text-style-1 {
+        color: #f22013;
+        display: inline;
+      }
+      .What-are-your-core-competency {
+        width: 252px;
+        height: 22px;
+        margin: 40px 108px 8px 0;
+        margin-left: 110px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Rectangle-1525 {
+        width: 400px;
+        height: 88px;
+        margin: 8px 0;
+        margin-left: 110px;
+        padding: 13px 16px 13px 16px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Central-box-experience-choose{
+        width: 632px;
+        height: 316px;
+        margin: 24px 354px 0;
+        padding:40px 50px;
+        border-radius: 6px;
+        box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 4px 0 rgba(63, 63, 68, 0.15);
+        background-color: white;
+      }
+      .Ex-UX-Design-User-research- {
+        width: 230px;
+        height: 22px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .word-limit{
+        width: 40px;
+        height: 16px;
+        margin: 8px 0 0 501px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: right;
+        color: #85898f;
+      }
+      .Blue-line-experience-choose {
+        width: 1486px;
+        height: 2px;
+        margin: 0 137px 0 0;
+        background-color: #0b68fd;
+      }
+    /*connect.html exclusive css*/
+    .LinkedIn-profile- {
+        width: 329px;
+        height: 22px;
+        margin: 0 71px 8px 0;
+        margin-left: 110px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color:#212428;
+      }
+      
+      .LinkedIn-profile- .text-style-1 {
+        color: #f22013;
+        display:inline;
+      }
+      .httpswwwlinkedincomusername {
+        width: 253px;
+        height: 22px;
+        font-family: "OpenSans",sans-serif;
+        margin-top: 15px;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Github-profile {
+        width: 166px;
+        height: 22px;
+        margin: 40px 234px 8px 0;
+        margin-left: 110px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .httpsgistgithubcomusername {
+        width: 230px;
+        height: 22px;
+        font-family: "OpenSans",sans-serif;
+        margin-top: 15px;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Blue-line-connect {
+        width: 1100px;
+        height: 2px;
+        margin: 0 137px 0 0;
+        background-color: #0b68fd;
+      }
+      /*professionaldetails.html exclusive css*/
+      .Central-box-professional {
+        width: 732px;
+        height: 486px;
+        margin: 24px 334px 0 374px;
+        padding: 40px 24px 40px 20px;
+        border-radius: 6px;
+        box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 4px 0 rgba(63, 63, 68, 0.15);
+        background-color: white;
+      }
+      .Phone-number {
+        width: 137px;
+        height: 22px;
+        margin: 0 217px 8px 4px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Phone-number-Rectangle {
+        width: 330px;
+        height: 48px;
+        margin: 8px 24px 40px 4px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Central-g{
+          display:flex;
+      }
+      .country-code{
+        width: 24px;
+        height: 22px;
+        margin: 12px 16px 13px 10px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Lineprof {
+        width: 1px;
+        height: 47px;
+        background-color: #b6b8bb;
+      }
+      .Where-do-you-currently-work- {
+        width: 255px;
+        height: 28px;
+        margin: 40px 103px 24px 0;
+        font-family: "NotoSans",sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.75;
+        letter-spacing: 0.25px;
+        text-align: center;
+        color: #212428;
+      }
+      
+      .Where-do-you-currently-work- .text-style-1 {
+        color: #f22013;
+        display: inline;
+      }
+      .Central-h{
+        display:flex;
+    }
+      .Designation {
+        width: 137px;
+        height: 22px;
+        margin: 24px 217px 8px 4px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Company-name {
+        width: 236px;
+        height: 22px;
+        margin: 24px 94px 8px 0px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Central-i{
+        display:flex;
+    }
+      .Rectangle-1541 {
+        width: 330px;
+        height: 48px;
+        margin: 8px 24px 16px 4px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Ex-Software-Engineer {
+        width: 160px;
+        height: 22px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        margin-left: 10px;
+        margin-top: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Rectangle-1542 {
+        width: 330px;
+        height: 48px;
+        margin: 8px 0 16px 24px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Im-not-employed-currently {
+        width: 183px;
+        height: 22px;
+        margin: 0 115px 41px 400px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Central-j{
+        display:flex;
+    }
+      .What-is-your-expected-salary {
+        width: 200px;
+        height: 22px;
+        margin: 0px 178px 8px 4px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Im-available-in {
+        width: 176px;
+        height: 22px;
+        margin: 0px 154px 8px 0px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      .Central-k{
+        display:flex;
+    }
+    .Rectangle-1543 {
+        width: 330px;
+        height: 48px;
+        margin: 8px 0 0 0px;
+        
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Rectangle-1544 {
+        width: 330px;
+        height: 48px;
+        margin: 8px 0 0 54px;
+    
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+/*reset.html exclusive css*/
+    .Right-handside-reset{
+     
+    
+            width: 128px;
+            height: 56px;
+            margin-left: 20px;
+            margin-top: 17px;
+            border-radius: 4px;
+            background-color: #f0f0f0;
+          
+    }
+    .Central-box-reset {
+        width: 624px;
+        height: 526px;
+        flex-grow: 0;
+        margin: 129px 0 169px 366px;
+        padding: 41px 89px;
+        border-radius: 6px;
+        box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.5), 0 1px 4px 0 rgba(63, 63, 68, 0.15);
+        background-color: white;
+      }
+      .Reset-password {
+        width: 364px;
+        height: 42px;
+        flex-grow: 0;
+        margin: 0 181px 16px;
+        font-family: "NotoSans",sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.24;
+        letter-spacing: 0.25px;
+        text-align: left;
+        color: #212428;
+      }
+      .Please-enter-new-password {
+        width: 446px;
+        height: 22px;
+        flex-grow: 0;
+        margin: 16px 0 40px;
+        margin-left: 90px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: center;
+        color: #4e5156;
+      }
+      .New-password- {
+        width: 137px;
+        height: 22px;
+        flex-grow: 0;
+        margin: 40px 309px 8px 100px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      
+      .New-password- .text-style-1 {
+        color: #f22013;
+        display: inline;
+      }
+      .Password {
+        width: 160px;
+        height: 22px;
+        flex-grow: 0;
+        font-family: "OpenSans",sans-serif;
+        margin-top: 15px;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Confirm-new-password- {
+        width: 237px;
+        height: 22px;
+        flex-grow: 0;
+        margin: 40px 309px 8px 100px;
+        font-family: "Roboto",sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.33;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #212428;
+      }
+      
+      .Confirm-new-password- .text-style-1 {
+        color: #f22013;
+        display:inline;
+      }
+      .Confirm-password {
+        width: 160px;
+        height: 22px;
+        flex-grow: 0;
+        font-family: "OpenSans",sans-serif;
+        margin-top: 15px;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: 0.15px;
+        text-align: left;
+        color: #b6b8bb;
+      }
+      .Reset-pass-rectangle{
+        width: 446px;
+        height: 48px;
+        flex-grow: 0;
+        margin: 50px 95px 0;
+        border-radius: 6px;
+        box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.15);
+        border: solid 1px #0953ca;
+        background-color: #0b68fd;
+      }
+      .Reset-password-button {
+        width: 117px;
+        height: 22px;
+        flex-grow: 0;
+        margin-top: 12px;
+        margin-right: 200px;
+        margin-left: 171px;
+        font-family: "OpenSans",sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.57;
+        letter-spacing: normal;
+        text-align: left;
+        color: white;
+      }
+      .Rectangle-299-reset {
+        width: 400px;
+        height: 48px;
+        margin: 8px 0 40px;
+        margin-left: 100px;
+        padding: 12px 16px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
+      .Rectangle-1530-reset {
+        width: 400px;
+        height: 48px;
+        margin: 8px 0 0;
+        margin-left: 100px;
+        padding: 12px 16px;
+        border-radius: 6px;
+        border: solid 1px #b6b8bb;
+        background-color: white;
+      }
