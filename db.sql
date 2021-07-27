@@ -1,4 +1,4 @@
-DROP DATABASE Flask;
+DROP DATABASE Flask;              // Drop any database you want to drop or you can also ignore this line//
 
 CREATE DATABASE flask;
 
